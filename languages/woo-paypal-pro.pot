@@ -1,0 +1,281 @@
+# Copyright (C) 2016 PayPal Pro for Woo
+# This file is distributed under the same license as the PayPal Pro for Woo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Pro for Woo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-paypal-pro\n"
+"POT-Creation-Date: 2016-08-11 05:05:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:6
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:7
+msgid "Enable Woo PayPal Pro"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:13
+msgid "Title"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:15
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:17
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:24
+msgid "PayPal Pro"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:20
+msgid "Description"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:22
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:24
+msgid "Pay with your credit card via PayPal Website Payments Pro."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:27
+msgid "Test Mode"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:30
+msgid "Place the payment gateway in development mode."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:32
+msgid "Enable PayPal Sandbox/Test Mode"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:35
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:57
+msgid "API Username"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:37
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:45
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:52
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:60
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:67
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:74
+msgid "Get your API credentials from PayPal."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:39
+msgid ""
+"Create sandbox accounts and obtain API credentials from within your <a href="
+"\"http://developer.paypal.com\">PayPal developer account</a>."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:43
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:65
+msgid "API Password"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:50
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:72
+msgid "API Signature"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:59
+msgid ""
+"Get your live account API credentials from your PayPal account profile under "
+"the API Access section <br />or by using <a target=\"_blank\" href=\"https://"
+"www.paypal.com/us/cgi-bin/webscr?cmd=_login-api-run\">this tool</a>."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:79
+msgid "Invoice ID Prefix"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:81
+msgid ""
+"Add a prefix to the invoice ID sent to PayPal. This can resolve duplicate "
+"invoice problems when working with multiple websites on the same PayPal "
+"account."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:86
+msgid "Payment Action"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:88
+msgid ""
+"Choose whether you wish to capture funds immediately or authorize payment "
+"only."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:91
+msgid "Sale"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:92
+msgid "Authorization"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:96
+msgid "Send Item Details"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:99
+msgid ""
+"Sends line items to PayPal. If you experience rounding errors this can be "
+"disabled."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:101
+msgid " Send Line Items to PayPal"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:104
+msgid "Enable PayPal IPN"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:106
+msgid "Enable Instant Payment Notification."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:111
+msgid "PayPal IPN URL"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:114
+msgid ""
+"Your URL for receiving Instant Payment Notification (IPN) about transactions."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:118
+msgid "Debug Log"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-common-function.php:120
+msgid "Enable Log Pal Pro"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:62
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:319
+msgid "Payment error"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:129
+msgid "NOTICE: SANDBOX (TEST) MODE ENABLED."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:131
+msgid ""
+"For testing purposes you can use the card number 4012 8888 8888 1881 with "
+"any CVC and a valid expiration date."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:151
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:166
+msgid "Card expiration date is invalid"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:156
+msgid "Card security code is invalid (only digits are allowed)"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:170
+msgid "Card number is invalid"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:187
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:189
+msgid ""
+"This order cannot be refunded due to an authorized only transaction.  Please "
+"use cancel instead."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:220
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:307
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:463
+msgid "There was a problem connecting to the payment gateway."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:228
+msgid "Refunded %s - Refund ID: %s"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:312
+msgid "Empty Paypal response."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:405
+msgid ""
+"PayPal Pro charge authorized (Charge ID: %s). Process order to take payment, "
+"or cancel to remove the pre-authorization."
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:408
+msgid "PayPal Pro payment completed (Transaction ID: %s, Correlation ID: %s)"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:433
+msgid ""
+"PayPal Pro payment failed (Correlation ID: %s). Payment was rejected due to "
+"an error: "
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:482
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:501
+msgid "Card Number"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:486
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:505
+msgid "Expiry (MM/YY)"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:487
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:495
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:506
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:514
+msgid "MM / YY"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:490
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:509
+msgid "Card Code"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:491
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:510
+msgid "CVC"
+msgstr ""
+
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:494
+#: includes/class-premiumdev-woo-paypal-pro-gateway.php:513
+msgid "Start Date (MM/YY)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayPal Pro for Woo"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PayPal Pro for Woo 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (PayPal Pro for Woo 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.premiumdev.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wpremiumdev"
+msgstr ""
